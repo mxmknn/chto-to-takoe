@@ -2,6 +2,7 @@
 <html>
     <body>
         <header>
+            <link rel="stylesheet" href="style1.css" type="text/css"/>  
             <a href="#price">Прайс-лист</a> <a href="#reviews">Отзывы</a> <a href="#photos">Фотографии</a>
         </header>
         <main>
